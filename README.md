@@ -12,13 +12,13 @@
 Only Premium Spotify users will be able to log in and play music with this library.
 ```
 
-* Get a Microsoft Azure Emotion API key
+* A Microsoft Azure Emotion API key
 
 ```
 https://azure.microsoft.com/en-ca/try/cognitive-services/
 ```
 
-* Get a Spotify Android SDK key
+* A Spotify Android SDK key
 
 ```
 https://developer.spotify.com/
