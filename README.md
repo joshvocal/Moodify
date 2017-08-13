@@ -12,8 +12,6 @@
 Only Premium Spotify users will be able to log in and play music with this library.
 ```
 
-### Installing
-
 * Get a Microsoft Azure Emotion API key
 
 ```
