@@ -1,6 +1,6 @@
 # Moodify
 
-One Paragraph of project description goes here
+:iphone: An android app that plays songs from Spotify based on current mood from a selfie.
 
 ## Getting Started
 
@@ -10,6 +10,20 @@ One Paragraph of project description goes here
 
 ```
 Only Premium Spotify users will be able to log in and play music with this library.
+```
+
+### Installing
+
+* Get a Microsoft Azure Emotion API key
+
+```
+https://azure.microsoft.com/en-ca/try/cognitive-services/
+```
+
+* Get a Spotify Android SDK key
+
+```
+https://developer.spotify.com/
 ```
 
 ## Built With
