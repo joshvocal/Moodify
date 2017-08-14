@@ -6,7 +6,7 @@
 
 ### Prerequisites
 
-* A Premium Spotify account.
+* A Premium Spotify account
 
 ```
 Only Premium Spotify users will be able to log in and play music with this library.
@@ -23,6 +23,15 @@ https://azure.microsoft.com/en-ca/try/cognitive-services/
 ```
 https://developer.spotify.com/
 ```
+
+### Installation
+
+Navigate to res/values/strings in the project
+
+```
+Replace emotion_api_key, spotify_client_id and spotify_redirect_uri with yours.
+```
+
 
 ## Built With
 
