@@ -19,7 +19,7 @@
 ![](https://github.com/joshvocal/Moodify/blob/master/screenshots/screenshot_3.png)
 
 
-## Getting Starte
+## Getting Started
 
 ### Prerequisitesd
 
