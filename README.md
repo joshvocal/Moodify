@@ -2,9 +2,13 @@
 
 :iphone: An android app that plays songs from Spotify based on current mood from a selfie.
 
+![](https://github.com/joshvocal/Moodify/blob/master/screenshots/screenshot_4.png)
+
 ## Demo
 
 ![](https://github.com/joshvocal/Moodify/blob/master/screenshots/happiness.gif)
+
+![](https://github.com/joshvocal/Moodify/blob/master/screenshots/sadness.gif)
 
 ## Screenshots
 
@@ -14,11 +18,10 @@
 
 ![](https://github.com/joshvocal/Moodify/blob/master/screenshots/screenshot_3.png)
 
-![](https://github.com/joshvocal/Moodify/blob/master/screenshots/screenshot_4.png)
 
-## Getting Started
+## Getting Starte
 
-### Prerequisites
+### Prerequisitesd
 
 * A Premium Spotify account
 
