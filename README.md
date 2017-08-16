@@ -55,5 +55,6 @@ Replace emotion_api_key, spotify_client_id and spotify_redirect_uri with yours.
 * [Microsoft Azure Emotion API](https://azure.microsoft.com/en-us/services/cognitive-services/emotion/) - Used to detect emotions.
 * [Spotify Android SDK](https://github.com/spotify/android-sdk) - Used to control Spotify songs.
 * [kaaes' Spotify Web API for Android](https://github.com/kaaes/spotify-web-api-android) - Used to fetch Spotify songs.
+* [Picasso Library](https://square.github.io/picasso/) - Used to fetch album artwork from Spotify songs.
 
 
