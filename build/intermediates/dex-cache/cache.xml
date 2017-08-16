@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/josh/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/home/josh/Desktop/Moodify-App/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0_5c41b4672b2c37260a3c371680b17c9d3250bc00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/josh/.android/build-cache/109e4055ea4f1f96925f4f1d98a9b00779dffc5f/output/jars/libs/jnihelpers-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b54aab38b4f87a6682331b511fec0db6b952bb7e">
+        <dex dex="/home/josh/Desktop/Moodify-App/app/build/intermediates/pre-dexed/debug/jnihelpers-1.0_6bc94e815ad85f4424b8b0954bde330b5df086d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/josh/.android/build-cache/8358bfbe3f685cb117e9a3c9c51224bd97e29848/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/josh/Desktop/Moodify-App/app/build/intermediates/pre-dexed/debug/classes_33d4733f95297cd3eb22b3b8e12ed13e3456b98c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/josh/.android/build-cache/355470440a38287b9e00881a16a82d544f1e82a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="785444f1c6a6b880b9aa0efb9a2464cb6c51f8dc">
+        <dex dex="/home/josh/Desktop/Moodify-App/app/build/intermediates/pre-dexed/debug/classes_2cbf651a723129fe1227009aeaaaa850c171baff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/josh/.android/build-cache/109e4055ea4f1f96925f4f1d98a9b00779dffc5f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="55220cc71bd23fff8fc339a67f55be3cfd11cdec">
+        <dex dex="/home/josh/Desktop/Moodify-App/app/build/intermediates/pre-dexed/debug/classes_d0ccf21f9a76c58f5034997b9af3c1c4cadd2b8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/josh/.android/build-cache/5ba07ae8cbbb279314a451a64e7d0e99ed3a7685/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/josh/Desktop/Moodify-App/app/build/intermediates/pre-dexed/debug/classes_cb27d9507aeb202f46d9f981e25278ea23cb5600.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/josh/.android/build-cache/cdcf3c2856ac73f9f7766f24b7472a4df37fe028/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0e7c2daeb5c4e8a4b0874bd62367979bb1c0c82a">
+        <dex dex="/home/josh/Desktop/Moodify-App/app/build/intermediates/pre-dexed/debug/classes_45a54161a732d4b5aface17a6e2292ac3b45949a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josh/Desktop/Moodify/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f8f05d29fd037db478fe2baf13805a042e860001">
+        <dex dex="/home/josh/Desktop/Moodify/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_daa8a98e47a05fdd18b79dca142b949028d01904/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/josh/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/josh/Desktop/Moodify-App/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_702ff0bd45a9be49ca68e395d55bc8aa9adbc712.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josh/Desktop/Moodify/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/josh/Desktop/Moodify/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b7a33f0c705e4559ec5b33771b5b981743de52c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/josh/.android/build-cache/5c6fff55c5479f3ea71f7a32e8d9871e3289f2f3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/josh/Desktop/Moodify-App/app/build/intermediates/pre-dexed/debug/classes_8a866fa821fa1f40b0f3fa3cdf8ad075857e8f29.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josh/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/josh/Desktop/Moodify/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_702ff0bd45a9be49ca68e395d55bc8aa9adbc712/classes.dex" />
+    </item>
+
+</items>

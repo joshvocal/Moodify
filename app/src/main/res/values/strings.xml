@@ -1,0 +1,42 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Moodify</string>
+
+    <!-- Microsoft Azure Emotion API key-->
+    <string name="emotion_api_key">replace_key</string>
+    <!-- Spotify Client ID -->
+    <string name="spotify_client_id">replace_key</string>
+    <!-- Spotify Redirect URI -->
+    <string name="spotify_redirect_uri">replace_key</string>
+
+    <!-- Welcome Screen -->
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <!-- First Screen-->
+    <string name="slide_1_title">Sign In.</string>
+    <string name="slide_1_desc">Log in with a premium Spotify account.</string>
+
+    <!-- Second Screen -->
+    <string name="slide_2_title">Take a selfie!</string>
+    <string name="slide_2_desc">Generate a Spotify playlist with the emotion of your face.</string>
+
+    <!-- Third Screen -->
+    <string name="slide_3_title">Enjoy the music!</string>
+    <string name="slide_3_desc">Match your current mood with the music.</string>
+
+    <!-- Welcome Screen -->
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <!-- Log In Activity -->
+    <string name="sign_in_button">Log In with Spotify</string>
+    <string name="help">Help</string>
+
+    <string name="permission_denied">Permission denied</string>
+    <string name="error">Error finding image</string>
+    <string name="saved_message">Image Saved at %1$s</string>
+</resources>
