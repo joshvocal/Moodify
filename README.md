@@ -6,11 +6,11 @@ An android app that plays songs from Spotify based on your current mood from a s
 
 ## Demo
 
-#### Determine happy playlist
+#### Determine happy playlist example
 
 ![](https://github.com/joshvocal/Moodify/blob/master/screenshots/happiness.gif)
 
-#### Determine sad playlist
+#### Determine sad playlist example
 
 ![](https://github.com/joshvocal/Moodify/blob/master/screenshots/sadness.gif)
 
