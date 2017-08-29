@@ -1,6 +1,14 @@
 # Moodify
 
-An android app that plays songs from Spotify based on your current mood from a selfie.
+From the drumbeats of our ancient ancestors to today's unlimited streaming services, music is an integral part of the human experience.
+
+Sad songs bring comfort to sadness as it allows the listener to relate and not feel alone.
+
+Happy music can make you feel eased and relaxed.
+
+Moodify enhances the mood with music from Spotify.
+
+Mood + Spotify = Moodify
 
 ## Screenshots
 
