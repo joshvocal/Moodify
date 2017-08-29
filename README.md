@@ -2,12 +2,14 @@
 
 An android app that plays songs from Spotify based on your current mood from a selfie.
 
+![](https://github.com/joshvocal/Moodify/blob/master/screenshots/screenshot_4.png)
+
 <img src="https://github.com/joshvocal/Moodify/blob/master/screenshots/screenshot_1.png" align="right" hspace="20">
 
-![](https://github.com/joshvocal/Moodify/blob/master/screenshots/screenshot_4.png)
 
 ![](https://github.com/joshvocal/Moodify/blob/master/screenshots/screenshot_2.png)
 
+<img src="https://github.com/joshvocal/Moodify/blob/master/screenshots/screenshot_1.png" align="right" hspace="20">
 
 
 
