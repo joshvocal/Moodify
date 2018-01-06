@@ -1,4 +1,4 @@
-package me.joshvocal.moodify;
+package me.joshvocal.moodify.activities;
 
 import android.Manifest;
 import android.app.ProgressDialog;
@@ -34,6 +34,10 @@ import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+
+import me.joshvocal.moodify.utils.BitmapUtils;
+import me.joshvocal.moodify.utils.ImageHelper;
+import me.joshvocal.moodify.R;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 

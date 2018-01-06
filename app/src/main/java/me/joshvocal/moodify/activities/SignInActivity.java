@@ -1,4 +1,4 @@
-package me.joshvocal.moodify;
+package me.joshvocal.moodify.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -18,6 +18,8 @@ import com.spotify.sdk.android.player.Player;
 import com.spotify.sdk.android.player.PlayerEvent;
 import com.spotify.sdk.android.player.Spotify;
 import com.spotify.sdk.android.player.SpotifyPlayer;
+
+import me.joshvocal.moodify.R;
 
 /**
  * SignInActivity prompts the user to sign into Spotify.

@@ -1,4 +1,4 @@
-package me.joshvocal.moodify;
+package me.joshvocal.moodify.utils;
 
 import android.graphics.Bitmap;
 import android.graphics.Canvas;

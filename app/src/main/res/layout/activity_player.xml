@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="me.joshvocal.moodify.PlayerActivity">
+    tools:context="me.joshvocal.moodify.activities.PlayerActivity">
 
     <LinearLayout
         android:layout_width="match_parent"

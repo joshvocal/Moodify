@@ -30,11 +30,11 @@
         </provider>
 
         <!-- Main Activity -->
-        <activity android:name=".MainActivity" />
+        <activity android:name=".activities.MainActivity" />
 
         <!-- Welcome Activity -->
         <activity
-            android:name=".WelcomeActivity"
+            android:name=".activities.WelcomeActivity"
             android:theme="@style/Theme.AppCompat.NoActionBar">
 
             <!-- Set this to be the first activity that launches -->
@@ -46,8 +46,8 @@
         </activity>
 
         <!-- Sign In Activity -->
-        <activity android:name=".SignInActivity" />
-        <activity android:name=".PlayerActivity"></activity>
+        <activity android:name=".activities.SignInActivity" />
+        <activity android:name=".activities.PlayerActivity"></activity>
     </application>
 
 </manifest>

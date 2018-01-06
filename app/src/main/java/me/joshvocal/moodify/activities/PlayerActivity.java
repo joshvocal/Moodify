@@ -1,4 +1,4 @@
-package me.joshvocal.moodify;
+package me.joshvocal.moodify.activities;
 
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -24,6 +24,8 @@ import kaaes.spotify.webapi.android.SpotifyApi;
 import kaaes.spotify.webapi.android.SpotifyService;
 import kaaes.spotify.webapi.android.models.Track;
 import kaaes.spotify.webapi.android.models.TracksPager;
+import me.joshvocal.moodify.R;
+import me.joshvocal.moodify.activities.SignInActivity;
 
 public class PlayerActivity extends AppCompatActivity implements View.OnClickListener,
         SeekBar.OnSeekBarChangeListener {

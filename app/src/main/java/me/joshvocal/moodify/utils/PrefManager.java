@@ -1,4 +1,4 @@
-package me.joshvocal.moodify;
+package me.joshvocal.moodify.utils;
 
 import android.content.Context;
 import android.content.SharedPreferences;

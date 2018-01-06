@@ -3,11 +3,11 @@
     <string name="app_name">Moodify</string>
 
     <!-- Microsoft Azure Emotion API key-->
-    <string name="emotion_api_key">replace_key</string>
+    <string name="emotion_api_key">9b4d429b66f14b809b8a5dd57e2a44a3</string>
     <!-- Spotify Client ID -->
-    <string name="spotify_client_id">replace_key</string>
+    <string name="spotify_client_id">37f1d57f0d1c4d679e4c435dd8d14503</string>
     <!-- Spotify Redirect URI -->
-    <string name="spotify_redirect_uri">replace_key</string>
+    <string name="spotify_redirect_uri">yourcustomprotocol://callback</string>
 
     <!-- Welcome Screen -->
     <string name="title_activity_welcome">Home Screen</string>

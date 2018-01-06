@@ -1,4 +1,4 @@
-package me.joshvocal.moodify;
+package me.joshvocal.moodify.utils;
 
 import android.content.Context;
 import android.content.Intent;
@@ -18,13 +18,15 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Locale;
 
+import me.joshvocal.moodify.R;
+
 /**
  * Created by josh on 8/15/17.
  */
 
 public class BitmapUtils {
 
-    static File createTempImageFile(Context context) throws IOException {
+    public static File createTempImageFile(Context context) throws IOException {
         String timeStamp = new SimpleDateFormat("yyyyMMdd_HHmmss",
                 Locale.getDefault()).format(new Date());
         String imageFileName = "JPEG_" + timeStamp + "_";
@@ -37,7 +39,7 @@ public class BitmapUtils {
         );
     }
 
-    static Bitmap resamplePic(Context context, String imagePath) {
+    public static Bitmap resamplePic(Context context, String imagePath) {
 
         // Get device screen size information
         DisplayMetrics metrics = new DisplayMetrics();
@@ -64,7 +66,7 @@ public class BitmapUtils {
         return BitmapFactory.decodeFile(imagePath);
     }
 
-    static boolean deleteImageFile(Context context, String imagePath) {
+    public static boolean deleteImageFile(Context context, String imagePath) {
         // Get the file
         File imageFile = new File(imagePath);
 
@@ -80,7 +82,7 @@ public class BitmapUtils {
         return deleted;
     }
 
-    static String saveImage(Context context, Bitmap image) {
+    public static String saveImage(Context context, Bitmap image) {
 
         String savedImagePath = null;
 
