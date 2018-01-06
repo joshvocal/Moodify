@@ -18,7 +18,7 @@ public class ImageHelper {
     public static Bitmap drawRectangleOnBitmap(
             Bitmap mBitmap, FaceRectangle faceRectangle) {
 
-        Bitmap bitmap = mBitmap.copy(Bitmap.Config.ARGB_8888, true);
+        Bitmap bitmap = mBitmap.copy(Bitmap.Config.RGB_565, true);
         Canvas canvas = new Canvas(bitmap);
 
         Paint paint = new Paint();

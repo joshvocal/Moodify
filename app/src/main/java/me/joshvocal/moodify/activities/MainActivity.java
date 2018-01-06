@@ -155,7 +155,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private void processImage() {
         // Convert image to stream
         ByteArrayOutputStream outputStream = new ByteArrayOutputStream();
-        mResultsBitmap.compress(Bitmap.CompressFormat.JPEG, 100, outputStream);
+        mResultsBitmap.compress(Bitmap.CompressFormat.JPEG, 30, outputStream);
         ByteArrayInputStream inputStream = new ByteArrayInputStream(outputStream.toByteArray());
 
         // Create async task to process data.
